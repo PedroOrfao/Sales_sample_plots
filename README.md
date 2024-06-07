@@ -19,7 +19,7 @@ The analysis is based on a sample sales data CSV file (`sales_data_sample.csv`).
 ### Geo Plot
 
 ### Top Products Plot
-
+![sales_top_print](https://github.com/PedroOrfao/Sales_sample_plots/assets/168864377/ebabf1de-6e1d-4a5a-ba4c-9db9ca3bbbaa)
 
 ## Installation
 
