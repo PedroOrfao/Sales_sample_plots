@@ -18,8 +18,17 @@ The analysis is based on a sample sales data CSV file (`sales_data_sample.csv`).
 ## Visualization
 ### Geo Plot
 ![sales_geo_plot](https://github.com/PedroOrfao/Sales_sample_plots/assets/168864377/47222d43-8594-4b94-a24a-ba2b61bb9652)
+### Time Plot
+![sales_time_plot](https://github.com/PedroOrfao/Sales_sample_plots/assets/168864377/5d294f45-37bc-4914-9cf1-371a270f0d0d)
 ### Top Products Plot
 ![sales_top_print](https://github.com/PedroOrfao/Sales_sample_plots/assets/168864377/ebabf1de-6e1d-4a5a-ba4c-9db9ca3bbbaa)
+
+### License
+This project is licensed under the MIT License. See the LICENSES file for details.
+
+### Acknowledgements
+Thanks to the folium project for providing the world-countries.json data used in the choropleth map example.
+Thanks to Kyanyoga on Kaggle for providing the sample sales data used in this project.
 
 ## Installation
 
@@ -27,4 +36,6 @@ Ensure you have the required Python libraries installed. You can install the nec
 
 ```bash
 pip install pandas matplotlib folium
+
+
 
